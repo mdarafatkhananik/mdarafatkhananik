@@ -161,7 +161,7 @@ BD Calling Academy — Betopia Group
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdarafatkhananik)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-arafat-khan-anik-2590641b1/?isSelfProfile=true)
-📧 Email: YOUR_PROFESSIONAL_EMAIL
+📧 Email: arafat505kst@gmail.com
 
 <br/>
 
