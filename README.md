@@ -150,8 +150,8 @@ I will continue adding projects that demonstrate my progress in backend developm
 ## 🎓 Courses & Training
 
 **Python & Django Web Development**  
-BD Calling Academy — Betopia Group  
-*Add your actual course dates and completion status here.*
+BD Calling Academy (Betopia Group) | 2026 – Present 
+
 
 ---
 
